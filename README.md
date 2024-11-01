@@ -1,5 +1,7 @@
+# Kodluyoruz Ilk Repo!
 
-# Kodluyoruz Ilk Repo
+
+![dd](https://github.com/user-attachments/assets/a5e7c33b-5c25-4d6d-b910-09a0a9d72c43)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Full Stack eğitimimizde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
